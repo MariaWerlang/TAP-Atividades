@@ -1,0 +1,14 @@
+{
+    "name": "maria/mensagem",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MariaW"
+        }
+    ],
+    "require": {}
+}
